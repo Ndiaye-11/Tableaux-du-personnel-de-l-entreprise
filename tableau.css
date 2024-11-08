@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    min-width: 300px;
+    width:  auto;
+    cursor: pointer;
+    border: 2px solid rgb(4, 4, 107);
+    margin: 10px auto;
+    text-align: left;
+}
+thead tr {
+    margin: 200px;
+    color: aliceblue;
+    background-color: rgb(4, 4, 107);
+    text-align: left;
+}
+th, td {
+   padding: 15px 20px;
+}
+tbody, tr, td, th {
+    border: 1px solid #f1f8ff;
+}
